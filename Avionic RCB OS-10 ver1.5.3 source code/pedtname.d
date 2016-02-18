@@ -1,0 +1,37 @@
+.\pedtname.o: GUI\PEdtName.c
+.\pedtname.o: GUI\Page.h
+.\pedtname.o: .\USER\stm32f10x.h
+.\pedtname.o: .\CORE\core_cm3.h
+.\pedtname.o: D:\Program Files\KeilMDK511a\ARM\ARMCC\bin\..\include\stdint.h
+.\pedtname.o: .\USER\system_stm32f10x.h
+.\pedtname.o: .\USER\stm32f10x_conf.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\pedtname.o: .\USER\stm32f10x.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_can.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_cec.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_crc.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_dac.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_dma.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_exti.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_flash.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+.\pedtname.o: .\STM32F10x_FWLib\inc\misc.h
+.\pedtname.o: .\LCD\lcd.h
+.\pedtname.o: .\FATFS\src\integer.h
+.\pedtname.o: .\USER\key.h
+.\pedtname.o: .\USER\beep.h
+.\pedtname.o: .\USER\cfg.h
+.\pedtname.o: D:\Program Files\KeilMDK511a\ARM\ARMCC\bin\..\include\string.h

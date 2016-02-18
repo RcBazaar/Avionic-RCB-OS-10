@@ -1,0 +1,39 @@
+.\tx.o: COMM\Tx.c
+.\tx.o: COMM\Tx.h
+.\tx.o: .\USER\stm32f10x.h
+.\tx.o: .\CORE\core_cm3.h
+.\tx.o: D:\Program Files\KeilMDK511a\ARM\ARMCC\bin\..\include\stdint.h
+.\tx.o: .\USER\system_stm32f10x.h
+.\tx.o: .\USER\stm32f10x_conf.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\tx.o: .\USER\stm32f10x.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_can.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_cec.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_crc.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_dac.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_dma.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_exti.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_flash.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\tx.o: .\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+.\tx.o: .\STM32F10x_FWLib\inc\misc.h
+.\tx.o: .\GUI\Page.h
+.\tx.o: .\USER\cfg.h
+.\tx.o: .\USER\adc.h
+.\tx.o: .\USER\key.h
+.\tx.o: .\USER\time.h
+.\tx.o: .\USER\ppm_decode.h
+.\tx.o: D:\Program Files\KeilMDK511a\ARM\ARMCC\bin\..\include\string.h
+.\tx.o: D:\Program Files\KeilMDK511a\ARM\ARMCC\bin\..\include\stdlib.h

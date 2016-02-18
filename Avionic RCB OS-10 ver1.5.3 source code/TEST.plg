@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\Documents\新项目\28-新版遥控器\程序\CONTROLLER\project\TEST.uvproj
+Project File Date:  09/29/2014
+
+<h2>Output:</h2>
+Build target 'TEST'
+linking...
+Program Size: Code=69094 RO-data=13438 RW-data=3792 ZI-data=13288  
+FromELF: creating hex file...
+".\TEST.axf" - 0 Errors, 0 Warning(s).
